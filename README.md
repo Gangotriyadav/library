@@ -1,7 +1,7 @@
 # 📚 Library Management System
 
 A simple **Library Management Web App** built using **HTML, CSS, and JavaScript**.  
-This project allows users to add, manage, and track books efficiently in a clean and responsive interface.
+This project enables users to efficiently add, manage, and track books through a clean and responsive interface.
 
 ---
 
